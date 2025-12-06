@@ -1,5 +1,5 @@
 [build]
 # The frontend app lives in the "frontend" subfolder.
 base = "frontend"
-publish = "frontend/dist"
+publish = "dist"
 command = "npm install && npm run build"
